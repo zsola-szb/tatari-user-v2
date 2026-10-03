@@ -1,0 +1,1 @@
+enum SetLocationTab { recent, saved }
